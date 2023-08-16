@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiqs-classics&label=Profile%20views&color=0e75b6&style=flat" alt="wasiqs-classics" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasiqs-classics" alt="wasiqs-classics" /></a> </p>
+<a align="center"> A driven and forward-thinking individual, I am on a mission to become a proficient <b>Applied Machine Learning and Artificial Intelligence Engineer</b> with a keen interest in the field of <b>robotics</b>. My passion lies in leveraging data science and Machine Learning skills, including <b>Deep Learning</b>, to transform data into actionable insights and implement intelligent solutions for <b>web, mobile, and desktop applications</b>. With a 360-degree approach to Applied ML and AI, I am also excited to explore the integration of AI in robotics, combining my expertise to create innovative and <b>autonomous systems</b>. From data analytics and web projects to the realm of robotics, I am determined to excel in diverse roles, driving research, and contributing to the future of intelligent technology. With a collaborative spirit and thirst for knowledge, I am dedicated to positively impacting the world through innovation and paving the way for the advancement of robotics through intelligent applications. </p>
 
 - 🔭 I’m currently working on **My Portfolio**
 
