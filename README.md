@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasiq Khan</h1>
-<h3 align="center">Aspiring Applied ML and AI Engineer</h3>
+<h3 align="center">Aspiring Applied ML and Cloud Native Generative AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiqs-classics&label=Profile%20views&color=0e75b6&style=flat" alt="wasiqs-classics" /> </p>
 
